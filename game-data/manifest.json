@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "compression": "gzip",
+  "source": "Terraria-SteamRIP.com.zip",
+  "files": 15997,
+  "size": 624894455,
+  "chunks": [
+    {
+      "file": "content-000.bin",
+      "size": 20971520,
+      "sha256": "05d094ae00dd773f09427b69674f8f37bf245d9bf573bb62f2b2a2cae7037074"
+    },
+    {
+      "file": "content-001.bin",
+      "size": 20971520,
+      "sha256": "5d5e4e13743b417746ce7523f6daa51ccc0ede14c1cf850accb422eea7d6d94e"
+    },
+    {
+      "file": "content-002.bin",
+      "size": 20971520,
+      "sha256": "156b27a2a623df01f5daf0f2444da61d105b6a84766e6dfa1d7edbd67ac796fb"
+    },
+    {
+      "file": "content-003.bin",
+      "size": 20971520,
+      "sha256": "b06b572b4c8f05725483350d00318d5be4cad65a68b06b60ef987ab744a774e5"
+    },
+    {
+      "file": "content-004.bin",
+      "size": 20971520,
+      "sha256": "dc2a3895908385682c4945340a01f7de4dff6cc11a6c80c7ded1877a13c95cc5"
+    },
+    {
+      "file": "content-005.bin",
+      "size": 20971520,
+      "sha256": "6c43e69636217c9f74debdd4700122fdbf5507069132b10d5822c1e2e3b25db3"
+    },
+    {
+      "file": "content-006.bin",
+      "size": 20971520,
+      "sha256": "ef41163dc9273170975b610d665f177fb338ac36e33dac9270e8b22d83a0c846"
+    },
+    {
+      "file": "content-007.bin",
+      "size": 20971520,
+      "sha256": "90c76d71e6592472f26d9aa0ab87c66adecc17109719c37fb4857d3cf278b86e"
+    },
+    {
+      "file": "content-008.bin",
+      "size": 20971520,
+      "sha256": "b83baa65854efebb2b847641e0dd5cb4d06a85b91c60dd894c253f8756b3b552"
+    },
+    {
+      "file": "content-009.bin",
+      "size": 20971520,
+      "sha256": "a99e205d4a42c2ca26b6aa1397d277b5bfb00838ff4447c36c364d553f489cb2"
+    },
+    {
+      "file": "content-010.bin",
+      "size": 20971520,
+      "sha256": "95cccfb552753896141c42cb58b1e4f334bba0cb008374dda4f931f10460a4cc"
+    },
+    {
+      "file": "content-011.bin",
+      "size": 20971520,
+      "sha256": "b67a5e6bc31c4ab14c9ad90a2ae37a14f7c532f6ac1507e668d202df9a879887"
+    },
+    {
+      "file": "content-012.bin",
+      "size": 20971520,
+      "sha256": "97c64d279411078f36efce1d835a5da6879d352096d40bfe44ddbb9493a9a9e8"
+    },
+    {
+      "file": "content-013.bin",
+      "size": 20971520,
+      "sha256": "cc71f13e3c391f73e707c6ad86107ae6fce1c847421ff2bec59aaaa667a8bd08"
+    },
+    {
+      "file": "content-014.bin",
+      "size": 20971520,
+      "sha256": "dc835181cbf382c253b008d53b5b5c3ef19b59820adbdd91ae9053d3eec380d5"
+    },
+    {
+      "file": "content-015.bin",
+      "size": 20971520,
+      "sha256": "933f363ffec2c27f6efdb427f2ac041dca48a06db6f4b7a041cbe82aa50728fa"
+    },
+    {
+      "file": "content-016.bin",
+      "size": 20971520,
+      "sha256": "95ded4fee390369de4474777b44c8327d2059f69fdea7ba68f196a24333c1951"
+    },
+    {
+      "file": "content-017.bin",
+      "size": 20971520,
+      "sha256": "102a4857fad12b180036253401eb4efd954e2afc0cc24211110ba6c11368a8e5"
+    },
+    {
+      "file": "content-018.bin",
+      "size": 20971520,
+      "sha256": "5d291d245b7c5cf92dcff1e74cb8202cb4432c42bd2f9889521d8b2f8522a50d"
+    },
+    {
+      "file": "content-019.bin",
+      "size": 20971520,
+      "sha256": "6c6a5e29965229587e7d6906b370928660e45e0581911cde0129b1d4e6a2df98"
+    },
+    {
+      "file": "content-020.bin",
+      "size": 20971520,
+      "sha256": "c63000302021e1c8d0c7ead4589d5dec83b2e52d04efcd454eca5a0d2283e0bd"
+    },
+    {
+      "file": "content-021.bin",
+      "size": 20971520,
+      "sha256": "e00076f145d22c0c05cb68ffd7634c359d4784197cbda81e2b3e0fc8435a4017"
+    },
+    {
+      "file": "content-022.bin",
+      "size": 20971520,
+      "sha256": "fa8477f383240be577fe6280a374e07a7b9f93ca2bc46ae8071d0e81541428be"
+    },
+    {
+      "file": "content-023.bin",
+      "size": 20971520,
+      "sha256": "c897946ebe5ae2c182a548b3f3fc271553d9cb38406d55a3a5ad232253e39035"
+    },
+    {
+      "file": "content-024.bin",
+      "size": 20971520,
+      "sha256": "5919131065c0a860ad972dbfffb65bb3ed7fa73be54a055390c996875e2bd61e"
+    },
+    {
+      "file": "content-025.bin",
+      "size": 20971520,
+      "sha256": "7d8bf1d60161db47528fd1d88fd7b86d24c7713158c0e32cb293e9bb86f4d6f9"
+    },
+    {
+      "file": "content-026.bin",
+      "size": 20971520,
+      "sha256": "d4b8c720d66f65485992de1364f91d9baeb1e4ddf4241c33058bc53af632bbfb"
+    },
+    {
+      "file": "content-027.bin",
+      "size": 20971520,
+      "sha256": "ec1aed64e29ec3e9de42c2536af4b56b573778a1d43d896eff3b76c5e0339c8a"
+    },
+    {
+      "file": "content-028.bin",
+      "size": 20971520,
+      "sha256": "007ce5e93b74a32f0b1195169bf6119fbb9458c4cff481c6e20afc751b21a001"
+    },
+    {
+      "file": "content-029.bin",
+      "size": 16720375,
+      "sha256": "01e3cb674e4d743181be9441cf8327d03f735cec60847ec11486d7de862ea3b0"
+    }
+  ]
+}
